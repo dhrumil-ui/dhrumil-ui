@@ -13,21 +13,9 @@
 
 ---
 
-## 🧠 About Me
 
-```python
-dhrumil = {
-    "name"      : "Dhrumil Pipaliya",
-    "location"  : "Jersey City, NJ 🗽",
-    "focus"     : ["Machine Learning", "Reinforcement Learning", "LLMs", "AI Products"],
-    "ml_stack"  : ["Python", "PyTorch", "scikit-learn", "XGBoost", "LangChain"],
-    "web_stack" : ["React", "TypeScript", "FastAPI", "Flutter"],
-    "building"  : "AI apps on real-world data for real-world problems",
-    "seeking"   : "AI/ML Engineer roles in the US tech market 🎯"
-}
-```
 
----
+
 
 ## 🚀 Featured Projects
 
